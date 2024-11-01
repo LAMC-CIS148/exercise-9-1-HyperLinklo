@@ -50,6 +50,10 @@ header img {
 #nav_menu ul li {
     width: 20%;                 /* 160 / 800 x 100 */
 }
+.flex-container {
+  display: flex;}
+flex-basis { witdh:100%;}
+
 #nav_menu ul li a {
     display: block;
     text-align: center;
