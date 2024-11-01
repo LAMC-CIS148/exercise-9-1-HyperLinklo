@@ -52,7 +52,7 @@ header img {
 }
 .flex-container {
   display: flex;}
-flex-basis { witdh:100%;}
+flex-basis { witdh:20%;}
 
 #nav_menu ul li a {
     display: block;
@@ -67,7 +67,7 @@ flex-basis { witdh:100%;}
 	color: yellow;
 }
 #nav_menu ul ul {
-	width: 100%;
+	width: 20%;
     display: none;
     position: absolute;
     top: 100%;
